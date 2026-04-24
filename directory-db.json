@@ -1,0 +1,2010 @@
+[
+  {
+    "name": "Academic Advisement",
+    "title": "",
+    "department": "",
+    "room": "307A Montgomery Building",
+    "phone": "256-782-8303",
+    "email": ""
+  },
+  {
+    "name": "Academic Center for Excellence",
+    "title": "",
+    "department": "",
+    "room": "304 Montgomery Building",
+    "phone": "256-782-8223",
+    "email": ""
+  },
+  {
+    "name": "Academic Enhancement",
+    "title": "",
+    "department": "",
+    "room": "307C Montgomery Building",
+    "phone": "256-782-5737",
+    "email": ""
+  },
+  {
+    "name": "Accounts Payable",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5267",
+    "email": ""
+  },
+  {
+    "name": "Admissions",
+    "title": "",
+    "department": "",
+    "room": "3rd Floor, Theron Montgomery Building",
+    "phone": "256-782-5268",
+    "email": ""
+  },
+  {
+    "name": "Advancement Services",
+    "title": "",
+    "department": "",
+    "room": "Rock House",
+    "phone": "256-782-5306",
+    "email": ""
+  },
+  {
+    "name": "Advertising",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5712",
+    "email": ""
+  },
+  {
+    "name": "Advisement & Certification",
+    "title": "",
+    "department": "",
+    "room": "Ramona Wood Hall",
+    "phone": "256-782-5574",
+    "email": ""
+  },
+  {
+    "name": "Alabama Science in Motion Project",
+    "title": "",
+    "department": "",
+    "room": "316 Martin Hall",
+    "phone": "256-782-5304",
+    "email": ""
+  },
+  {
+    "name": "Alana J",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "",
+    "email": "aj@stu.jsu.edu"
+  },
+  {
+    "name": "Alumni Engagement",
+    "title": "",
+    "department": "",
+    "room": "107 Kennamer Hall",
+    "phone": "256-782-5404",
+    "email": ""
+  },
+  {
+    "name": "AMSTI",
+    "title": "",
+    "department": "",
+    "room": "McClellan Building 3181",
+    "phone": "256-782-8610",
+    "email": ""
+  },
+  {
+    "name": "Anthropology",
+    "title": "",
+    "department": "",
+    "room": "206 Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Apartments",
+    "title": "",
+    "department": "",
+    "room": "Pannell Hall",
+    "phone": "256-782-8336",
+    "email": ""
+  },
+  {
+    "name": "APCO \"Virtual College\"",
+    "title": "",
+    "department": "",
+    "room": "1141 McClellan Building 3181",
+    "phone": "256-782-5925",
+    "email": ""
+  },
+  {
+    "name": "Applied Sports Study",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5114",
+    "email": ""
+  },
+  {
+    "name": "Archaeology",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Archaeology Lab",
+    "title": "",
+    "department": "",
+    "room": "McClellan Building 3181",
+    "phone": "256-782-5226",
+    "email": ""
+  },
+  {
+    "name": "Art Department",
+    "title": "",
+    "department": "",
+    "room": "102 Hammond Hall",
+    "phone": "256-782-5626",
+    "email": ""
+  },
+  {
+    "name": "Arts & Humanities",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5690",
+    "email": ""
+  },
+  {
+    "name": "Associate A.D. Internal Affairs",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5988",
+    "email": ""
+  },
+  {
+    "name": "Associate A.D. Sports Medicine",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5369",
+    "email": ""
+  },
+  {
+    "name": "Associate Athletic Dirctor External Affairs-Marketing",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5536",
+    "email": ""
+  },
+  {
+    "name": "Associate Vice President for Academic Affairs",
+    "title": "",
+    "department": "",
+    "room": "201 Angle Hall",
+    "phone": "256-782-5284",
+    "email": ""
+  },
+  {
+    "name": "Associate Vice President for Distance Education",
+    "title": "",
+    "department": "",
+    "room": "212 Self Hall",
+    "phone": "256-782-8172",
+    "email": ""
+  },
+  {
+    "name": "Associate Vice President for Enrollment Management & Student Affairs",
+    "title": "",
+    "department": "",
+    "room": "102 Angle Hall",
+    "phone": "256-782-5020",
+    "email": ""
+  },
+  {
+    "name": "Athletic Department",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5368",
+    "email": ""
+  },
+  {
+    "name": "Athletic Director",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5368",
+    "email": ""
+  },
+  {
+    "name": "Athletic Tickets",
+    "title": "",
+    "department": "",
+    "room": "121 Kennamer Hall",
+    "phone": "256-782-8499",
+    "email": ""
+  },
+  {
+    "name": "Audio Visual Center",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5251",
+    "email": ""
+  },
+  {
+    "name": "Band Director",
+    "title": "",
+    "department": "",
+    "room": "304 Mason Hall",
+    "phone": "256-782-5562",
+    "email": ""
+  },
+  {
+    "name": "Baptist Campus Ministry",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-435-7020",
+    "email": ""
+  },
+  {
+    "name": "Baseball",
+    "title": "Baseball Stadium",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5367",
+    "email": ""
+  },
+  {
+    "name": "Biology",
+    "title": "",
+    "department": "",
+    "room": "242 Martin Hall",
+    "phone": "256-782-5642",
+    "email": ""
+  },
+  {
+    "name": "Bookstore",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-5283",
+    "email": ""
+  },
+  {
+    "name": "Building Services",
+    "title": "",
+    "department": "",
+    "room": "Services Building",
+    "phone": "256-782-5488",
+    "email": ""
+  },
+  {
+    "name": "Bursar",
+    "title": "",
+    "department": "",
+    "room": "245 Angle Hall",
+    "phone": "256-782-5459",
+    "email": ""
+  },
+  {
+    "name": "Bursar: Collections",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5262",
+    "email": ""
+  },
+  {
+    "name": "Bursrar: Student Accounts",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5459",
+    "email": ""
+  },
+  {
+    "name": "Capital Campaign",
+    "title": "",
+    "department": "",
+    "room": "301 Angle Hall",
+    "phone": "256-782-5605",
+    "email": ""
+  },
+  {
+    "name": "Captioned Media Library",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-8173",
+    "email": ""
+  },
+  {
+    "name": "Career Assessment",
+    "title": "",
+    "department": "",
+    "room": "207 Merrill Hall",
+    "phone": "256-782-5482",
+    "email": ""
+  },
+  {
+    "name": "Center for Business & Free Enterprise-Educ and Entrepreneurship",
+    "title": "",
+    "department": "",
+    "room": "221 Merrill Hall",
+    "phone": "256-782-5777",
+    "email": ""
+  },
+  {
+    "name": "Center for Economic Development",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5324",
+    "email": ""
+  },
+  {
+    "name": "Center for Manufacturing Support",
+    "title": "",
+    "department": "",
+    "room": "Ayers Hall",
+    "phone": "256-782-8511",
+    "email": ""
+  },
+  {
+    "name": "Chanticleer",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5701",
+    "email": ""
+  },
+  {
+    "name": "Chemistry",
+    "title": "",
+    "department": "",
+    "room": "206 Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Chemistry and Geosciences",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Chief Information Officer",
+    "title": "",
+    "department": "",
+    "room": "103 Computer Center",
+    "phone": "256-782-5201",
+    "email": ""
+  },
+  {
+    "name": "Child Development Center",
+    "title": "",
+    "department": "",
+    "room": "CEPS New Complex Building 2 and 3",
+    "phone": "256-782-8655",
+    "email": ""
+  },
+  {
+    "name": "Circulation Desk",
+    "title": "",
+    "department": "",
+    "room": "Cole Library 1st Floor",
+    "phone": "256-782-5758",
+    "email": ""
+  },
+  {
+    "name": "Clinical Experiences-Teacher Education",
+    "title": "",
+    "department": "",
+    "room": "311 Ramona Wood Hall",
+    "phone": "256-782-5824",
+    "email": ""
+  },
+  {
+    "name": "Coliseum Sports",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5535",
+    "email": ""
+  },
+  {
+    "name": "College Apartments",
+    "title": "",
+    "department": "",
+    "room": "Pannell Hall",
+    "phone": "256-782-8336",
+    "email": ""
+  },
+  {
+    "name": "College of Business and Industry",
+    "title": "",
+    "department": "",
+    "room": "Merrill Hall",
+    "phone": "256-782-5274",
+    "email": ""
+  },
+  {
+    "name": "Communication Department",
+    "title": "",
+    "department": "",
+    "room": "217 Self Hall",
+    "phone": "256-782-5300",
+    "email": ""
+  },
+  {
+    "name": "Commuter College",
+    "title": "",
+    "department": "",
+    "room": "227 Stone Center",
+    "phone": "256-782-5711",
+    "email": ""
+  },
+  {
+    "name": "Compliance",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5970",
+    "email": ""
+  },
+  {
+    "name": "Computer Lab - Library (10th Floor)",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6011",
+    "email": ""
+  },
+  {
+    "name": "Computer Lab - Martin Hall (3rd Floor)",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5216",
+    "email": ""
+  },
+  {
+    "name": "Computer Lab - Self Hall",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5382",
+    "email": ""
+  },
+  {
+    "name": "Computer Science",
+    "title": "",
+    "department": "",
+    "room": "119 Ayers Hall Building",
+    "phone": "256-782-5217",
+    "email": ""
+  },
+  {
+    "name": "Computer Services",
+    "title": "",
+    "department": "",
+    "room": "103 Computer Center",
+    "phone": "256-782-5201",
+    "email": ""
+  },
+  {
+    "name": "Conference Services",
+    "title": "",
+    "department": "",
+    "room": "Meehan Hall",
+    "phone": "256-782-5860",
+    "email": ""
+  },
+  {
+    "name": "Continuing Education",
+    "title": "",
+    "department": "",
+    "room": "1101 McClellan Building 3181",
+    "phone": "256-782-5918",
+    "email": ""
+  },
+  {
+    "name": "Controller",
+    "title": "",
+    "department": "",
+    "room": "303 Angle Hall",
+    "phone": "256-782-5002",
+    "email": ""
+  },
+  {
+    "name": "Cooperative Education",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5092",
+    "email": ""
+  },
+  {
+    "name": "Costume Department",
+    "title": "",
+    "department": "",
+    "room": "Stone Center",
+    "phone": "256-782-5602",
+    "email": ""
+  },
+  {
+    "name": "Counseling Services",
+    "title": "",
+    "department": "",
+    "room": "147 Trustee Circle",
+    "phone": "256-782-5475",
+    "email": ""
+  },
+  {
+    "name": "Criminal Justice",
+    "title": "",
+    "department": "",
+    "room": "138 Brewer Hall",
+    "phone": "256-782-5335",
+    "email": ""
+  },
+  {
+    "name": "Crow Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7705",
+    "email": ""
+  },
+  {
+    "name": "Curriculum & Instruction ECE, EED, SPE",
+    "title": "",
+    "department": "",
+    "room": "313 Ramona Wood Hall",
+    "phone": "256-782-5091",
+    "email": ""
+  },
+  {
+    "name": "Curtiss Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7697",
+    "email": ""
+  },
+  {
+    "name": "Daugette Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7601",
+    "email": ""
+  },
+  {
+    "name": "Delta Chi House",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7453",
+    "email": ""
+  },
+  {
+    "name": "Department of Kinesiology",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-5515",
+    "email": ""
+  },
+  {
+    "name": "Disability Resources",
+    "title": "",
+    "department": "",
+    "room": "211 Houston Cole",
+    "phone": "256-782-8380",
+    "email": ""
+  },
+  {
+    "name": "Distance Education",
+    "title": "",
+    "department": "",
+    "room": "212A Self Hall",
+    "phone": "256-782-8172",
+    "email": ""
+  },
+  {
+    "name": "Dixon Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7702",
+    "email": ""
+  },
+  {
+    "name": "Drama Department",
+    "title": "",
+    "department": "",
+    "room": "344 Stone Center",
+    "phone": "256-782-5623",
+    "email": ""
+  },
+  {
+    "name": "Drama Ticket Office",
+    "title": "",
+    "department": "",
+    "room": "Stone Center",
+    "phone": "256-782-5648",
+    "email": ""
+  },
+  {
+    "name": "Economic Development Center",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5324",
+    "email": ""
+  },
+  {
+    "name": "Educational Resources",
+    "title": "",
+    "department": "",
+    "room": "304 Ramona Wood Hall",
+    "phone": "256-782-5096",
+    "email": ""
+  },
+  {
+    "name": "Elementary Education",
+    "title": "",
+    "department": "",
+    "room": "313 Ramona Wood Hall",
+    "phone": "256-782-5091",
+    "email": ""
+  },
+  {
+    "name": "Emergency Management",
+    "title": "",
+    "department": "",
+    "room": "126 Brewer Hall",
+    "phone": "256-782-5925",
+    "email": ""
+  },
+  {
+    "name": "Engineering",
+    "title": "",
+    "department": "",
+    "room": "Ayers Hall Building",
+    "phone": "256-782-5294",
+    "email": ""
+  },
+  {
+    "name": "English",
+    "title": "",
+    "department": "",
+    "room": "215 Stone Center",
+    "phone": "256-782-5411",
+    "email": ""
+  },
+  {
+    "name": "English Language Institute",
+    "title": "",
+    "department": "",
+    "room": "202 Salls Hall",
+    "phone": "256-782-8350",
+    "email": ""
+  },
+  {
+    "name": "Environmental Policy & Information Center",
+    "title": "",
+    "department": "",
+    "room": "McClellan Building 3181",
+    "phone": "256-782-8010",
+    "email": ""
+  },
+  {
+    "name": "Equipment Room",
+    "title": "",
+    "department": "",
+    "room": "Field House",
+    "phone": "256-782-5373",
+    "email": ""
+  },
+  {
+    "name": "Facility Coordinator",
+    "title": "",
+    "department": "",
+    "room": "Kennamer Hall",
+    "phone": "256-782-5067",
+    "email": ""
+  },
+  {
+    "name": "Faculty Senate",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-8202",
+    "email": ""
+  },
+  {
+    "name": "Family & Consumer Sciences",
+    "title": "",
+    "department": "",
+    "room": "Mason Hall",
+    "phone": "256-782-5054",
+    "email": ""
+  },
+  {
+    "name": "Finance, Economics, &  Accounting",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5776",
+    "email": ""
+  },
+  {
+    "name": "Fitzpatrick Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7677",
+    "email": ""
+  },
+  {
+    "name": "Food Court",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-5554",
+    "email": ""
+  },
+  {
+    "name": "Foundation Office",
+    "title": "",
+    "department": "",
+    "room": "Rock House",
+    "phone": "256-782-5306",
+    "email": ""
+  },
+  {
+    "name": "Fraternity & Sorority Life",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-5491",
+    "email": ""
+  },
+  {
+    "name": "Gamecock Club/Special Projects",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5368",
+    "email": ""
+  },
+  {
+    "name": "Geography & Geology",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Government Relations",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5278",
+    "email": ""
+  },
+  {
+    "name": "Graduate School",
+    "title": "",
+    "department": "",
+    "room": "320 Angle Hall",
+    "phone": "256-782-5348",
+    "email": ""
+  },
+  {
+    "name": "Grammar Hotline",
+    "title": "",
+    "department": "",
+    "room": "Stone Center",
+    "phone": "256-782-5409",
+    "email": ""
+  },
+  {
+    "name": "Health, Physical Education & Recreation",
+    "title": "",
+    "department": "",
+    "room": "Kennamer Hall",
+    "phone": "256-782-5515",
+    "email": ""
+  },
+  {
+    "name": "Help Desk - Technology Support Center",
+    "title": "http://www.jsu.edu/tsc",
+    "department": "",
+    "room": "9th Floor Library",
+    "phone": "256-782-8324",
+    "email": ""
+  },
+  {
+    "name": "History & Foreign Languages",
+    "title": "",
+    "department": "",
+    "room": "315 Stone Center",
+    "phone": "256-782-5632",
+    "email": ""
+  },
+  {
+    "name": "Honors Program",
+    "title": "",
+    "department": "",
+    "room": "217 Mason East",
+    "phone": "256-782-5696",
+    "email": ""
+  },
+  {
+    "name": "Housekeeping Services",
+    "title": "",
+    "department": "",
+    "room": "Services  Building",
+    "phone": "256-782-5488",
+    "email": ""
+  },
+  {
+    "name": "Housing",
+    "title": "",
+    "department": "",
+    "room": "103 Angle Hall",
+    "phone": "256-782-5122",
+    "email": ""
+  },
+  {
+    "name": "Human Resources",
+    "title": "",
+    "department": "",
+    "room": "329 Angle Hall",
+    "phone": "256-782-5007",
+    "email": ""
+  },
+  {
+    "name": "ID Office",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-5290",
+    "email": ""
+  },
+  {
+    "name": "In-Service Education Center",
+    "title": "",
+    "department": "",
+    "room": "McClellan Building 3181",
+    "phone": "256-782-5985",
+    "email": ""
+  },
+  {
+    "name": "Information Technology",
+    "title": "http://www.jsu.edu/it/",
+    "department": "",
+    "room": "103 Computer Center",
+    "phone": "256-782-8201",
+    "email": ""
+  },
+  {
+    "name": "Institute for Emergency Preparedness",
+    "title": "",
+    "department": "",
+    "room": "1141 McClellan Building 3181",
+    "phone": "256-782-5925",
+    "email": ""
+  },
+  {
+    "name": "Institutional Support Services",
+    "title": "",
+    "department": "",
+    "room": "301 Montgomery Building",
+    "phone": "256-782-5557",
+    "email": ""
+  },
+  {
+    "name": "Integrated Studies",
+    "title": "",
+    "department": "",
+    "room": "Stone Center",
+    "phone": "256-782-8303",
+    "email": ""
+  },
+  {
+    "name": "Interlibrary Loan",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5243",
+    "email": ""
+  },
+  {
+    "name": "Internal Audit & External Funds Compliance",
+    "title": "",
+    "department": "",
+    "room": "224 Angle Hall",
+    "phone": "256-782-5885",
+    "email": ""
+  },
+  {
+    "name": "International House",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5303",
+    "email": ""
+  },
+  {
+    "name": "International House Director",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-5303",
+    "email": ""
+  },
+  {
+    "name": "International House Social Director",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-5313",
+    "email": ""
+  },
+  {
+    "name": "International Programs",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-5674",
+    "email": ""
+  },
+  {
+    "name": "Inventory",
+    "title": "Warehouse",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5448",
+    "email": ""
+  },
+  {
+    "name": "Jacksonville Christian Student Center",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-435-9356",
+    "email": ""
+  },
+  {
+    "name": "Jessica Roberg",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "",
+    "email": "jroberg@stu.jsu.edu"
+  },
+  {
+    "name": "JSU-Gadsden",
+    "title": "",
+    "department": "",
+    "room": "Joe Ford Center",
+    "phone": "256-549-8390",
+    "email": ""
+  },
+  {
+    "name": "JSU-McClellan",
+    "title": "",
+    "department": "",
+    "room": "1145 McClellan Building 3181",
+    "phone": "256-782-8363",
+    "email": ""
+  },
+  {
+    "name": "Judicial Coordinator",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-8080",
+    "email": ""
+  },
+  {
+    "name": "Kadama Mckenzie Greene",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "",
+    "email": "kmckenziegree@stu.jsu.edu"
+  },
+  {
+    "name": "Kappa Alpha Order House",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6730",
+    "email": ""
+  },
+  {
+    "name": "Leadership House for Women",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7530",
+    "email": ""
+  },
+  {
+    "name": "Learning Resource Center",
+    "title": "",
+    "department": "",
+    "room": "102 Ramona Wood Hall",
+    "phone": "256-782-5346",
+    "email": ""
+  },
+  {
+    "name": "Learning Services",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5570",
+    "email": ""
+  },
+  {
+    "name": "Learning Skills",
+    "title": "B14 Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5570",
+    "email": ""
+  },
+  {
+    "name": "Library",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5255",
+    "email": ""
+  },
+  {
+    "name": "Library Hours",
+    "title": "Cole Library",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5068",
+    "email": ""
+  },
+  {
+    "name": "Little River Canyon Field School",
+    "title": "",
+    "department": "",
+    "room": "246 Martin Hall",
+    "phone": "256-782-5697",
+    "email": ""
+  },
+  {
+    "name": "Little River Canyon Gift Shop",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-845-7213",
+    "email": ""
+  },
+  {
+    "name": "Logan Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6594",
+    "email": ""
+  },
+  {
+    "name": "Mail Center",
+    "title": "",
+    "department": "",
+    "room": "Montgomery Building",
+    "phone": "256-782-5290",
+    "email": ""
+  },
+  {
+    "name": "Maintenance Department",
+    "title": "Duncan Maintenance Shop",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5450",
+    "email": ""
+  },
+  {
+    "name": "Major Gifts Officers",
+    "title": "",
+    "department": "",
+    "room": "301 Angle Hall",
+    "phone": "256-782-8351",
+    "email": ""
+  },
+  {
+    "name": "Management & Marketing",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5787",
+    "email": ""
+  },
+  {
+    "name": "Marketing and Communications",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5023",
+    "email": ""
+  },
+  {
+    "name": "Marketing Services",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5828",
+    "email": ""
+  },
+  {
+    "name": "Marketing/Broadcasting",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5890",
+    "email": ""
+  },
+  {
+    "name": "Math, Computer & Information Sciences",
+    "title": "",
+    "department": "",
+    "room": "119 Ayers Hall Building",
+    "phone": "256-782-5217",
+    "email": ""
+  },
+  {
+    "name": "Meehan Hall",
+    "title": "Stadium Tower",
+    "department": "",
+    "room": "",
+    "phone": "256-782-7300",
+    "email": ""
+  },
+  {
+    "name": "Men's Basketball",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5598",
+    "email": ""
+  },
+  {
+    "name": "Men's Cross-Country",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-8068",
+    "email": ""
+  },
+  {
+    "name": "Men's Golf",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5834",
+    "email": ""
+  },
+  {
+    "name": "Men's Tennis",
+    "title": "",
+    "department": "",
+    "room": "Meehan Hall",
+    "phone": "256-782-5887",
+    "email": ""
+  },
+  {
+    "name": "Military and Post-Traditional Student Services",
+    "title": "",
+    "department": "",
+    "room": "117 Angle Hall",
+    "phone": "256-782-5892",
+    "email": ""
+  },
+  {
+    "name": "Military Science",
+    "title": "",
+    "department": "",
+    "room": "Rowe Hall",
+    "phone": "256-782-5601",
+    "email": ""
+  },
+  {
+    "name": "Mimosa",
+    "title": "",
+    "department": "",
+    "room": "323C Angle Hall",
+    "phone": "256-782-5240",
+    "email": ""
+  },
+  {
+    "name": "Multimedia Instructional Laboratory",
+    "title": "",
+    "department": "",
+    "room": "210 Ramona Wood Hall",
+    "phone": "256-782-5633",
+    "email": ""
+  },
+  {
+    "name": "Music Department",
+    "title": "",
+    "department": "",
+    "room": "JSU Nursing Complex",
+    "phone": "256-782-5559",
+    "email": ""
+  },
+  {
+    "name": "NE AL Law Enforcement Academy",
+    "title": "",
+    "department": "",
+    "room": "McClellan Building 3181",
+    "phone": "256-782-5318",
+    "email": ""
+  },
+  {
+    "name": "Network Architecture and Infrastructure Support",
+    "title": "",
+    "department": "",
+    "room": "139 Daugette Hall",
+    "phone": "256-782-8001",
+    "email": ""
+  },
+  {
+    "name": "Nursery School",
+    "title": "",
+    "department": "",
+    "room": "Mason Hall",
+    "phone": "256-782-5869",
+    "email": ""
+  },
+  {
+    "name": "Nursing",
+    "title": "",
+    "department": "",
+    "room": "Kennamer Hall",
+    "phone": "256-782-5425",
+    "email": ""
+  },
+  {
+    "name": "Observatory",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Office for Philanthropy",
+    "title": "",
+    "department": "",
+    "room": "Development House",
+    "phone": "256-782-5605",
+    "email": ""
+  },
+  {
+    "name": "Office of Procurement",
+    "title": "",
+    "department": "",
+    "room": "310 Angle Hall",
+    "phone": "256-782-5152",
+    "email": ""
+  },
+  {
+    "name": "Office of Research, Planning & Collaboration",
+    "title": "",
+    "department": "",
+    "room": "203A Angle Hall",
+    "phone": "256-782-8144",
+    "email": ""
+  },
+  {
+    "name": "Office of Teaching, Learning, & Technology",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-8172",
+    "email": ""
+  },
+  {
+    "name": "Orientation",
+    "title": "",
+    "department": "",
+    "room": "402 Montgomery Building",
+    "phone": "256-782-5491",
+    "email": ""
+  },
+  {
+    "name": "P Snay",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "",
+    "email": "jsu5657b@stu.jsu.edu"
+  },
+  {
+    "name": "Part-time Placement",
+    "title": "",
+    "department": "",
+    "room": "Romona Wood Building",
+    "phone": "256-782-5482",
+    "email": ""
+  },
+  {
+    "name": "Patterson Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6764",
+    "email": ""
+  },
+  {
+    "name": "Payroll: Monthly",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5567",
+    "email": ""
+  },
+  {
+    "name": "Payroll: Student/Bi-Weekly",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-8422",
+    "email": ""
+  },
+  {
+    "name": "Photographic Services",
+    "title": "",
+    "department": "",
+    "room": "Kennamer Hall",
+    "phone": "256-782-5341",
+    "email": ""
+  },
+  {
+    "name": "Physical and Earth Sciences",
+    "title": "",
+    "department": "",
+    "room": "206 Martin Hall",
+    "phone": "256-782-5232",
+    "email": ""
+  },
+  {
+    "name": "Physical Education",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5515",
+    "email": ""
+  },
+  {
+    "name": "Physical Plant",
+    "title": "Duncan Maintenance Shop",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5450",
+    "email": ""
+  },
+  {
+    "name": "Pi Kappa Phi House",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6333",
+    "email": ""
+  },
+  {
+    "name": "Police Department",
+    "title": "",
+    "department": "",
+    "room": "Salls Hall",
+    "phone": "256-782-8888",
+    "email": ""
+  },
+  {
+    "name": "Political Science & Public Administration",
+    "title": "",
+    "department": "",
+    "room": "220 Brewer Hall",
+    "phone": "256-782-5650",
+    "email": ""
+  },
+  {
+    "name": "Pre-Law",
+    "title": "",
+    "department": "",
+    "room": "220 Brewer Hall",
+    "phone": "256-782-5650",
+    "email": ""
+  },
+  {
+    "name": "Pre-Med",
+    "title": "",
+    "department": "",
+    "room": "242 Martin Hall",
+    "phone": "256-782-5642",
+    "email": ""
+  },
+  {
+    "name": "President's Home",
+    "title": "University Circle",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5995",
+    "email": ""
+  },
+  {
+    "name": "President's Office",
+    "title": "",
+    "department": "",
+    "room": "206 Angle Hall",
+    "phone": "256-782-5881",
+    "email": ""
+  },
+  {
+    "name": "Preston Forrest",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "",
+    "email": "pforrest@stu.jsu.edu"
+  },
+  {
+    "name": "Print Shop",
+    "title": "",
+    "department": "",
+    "room": "104 Montgomery Building",
+    "phone": "256-782-5323",
+    "email": ""
+  },
+  {
+    "name": "Provost & Vice President for Academic & Student Affairs",
+    "title": "",
+    "department": "",
+    "room": "235 Angle Hall",
+    "phone": "256-782-5540",
+    "email": ""
+  },
+  {
+    "name": "Psychology",
+    "title": "",
+    "department": "",
+    "room": "211 Ayers Hall Building",
+    "phone": "256-782-5402",
+    "email": ""
+  },
+  {
+    "name": "Public Relations",
+    "title": "",
+    "department": "",
+    "room": "301 Angle Hall",
+    "phone": "256-782-5636",
+    "email": ""
+  },
+  {
+    "name": "Purchasing",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5152",
+    "email": ""
+  },
+  {
+    "name": "Recreational Sports",
+    "title": "",
+    "department": "",
+    "room": "215 Stephenson Hall",
+    "phone": "256-782-5072",
+    "email": ""
+  },
+  {
+    "name": "Reference Desk",
+    "title": "",
+    "department": "",
+    "room": "Cole Library 2nd Floor",
+    "phone": "256-782-8034",
+    "email": ""
+  },
+  {
+    "name": "Registrar",
+    "title": "",
+    "department": "",
+    "room": "113 Angle Hall",
+    "phone": "256-782-5400",
+    "email": ""
+  },
+  {
+    "name": "Registration Center",
+    "title": "",
+    "department": "",
+    "room": "Ramona Wood Hall",
+    "phone": "256-782-5574",
+    "email": ""
+  },
+  {
+    "name": "Respiratory Therapy",
+    "title": "Brookstone",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5425",
+    "email": ""
+  },
+  {
+    "name": "Rifle",
+    "title": "",
+    "department": "",
+    "room": "Rowe Hall",
+    "phone": "256-782-5185",
+    "email": ""
+  },
+  {
+    "name": "ROTC",
+    "title": "",
+    "department": "",
+    "room": "Rowe Hall",
+    "phone": "256-782-5601",
+    "email": ""
+  },
+  {
+    "name": "Safety Officer",
+    "title": "",
+    "department": "",
+    "room": "134 Ayers Hall Building",
+    "phone": "256-782-5080",
+    "email": ""
+  },
+  {
+    "name": "Scholarships",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5675",
+    "email": ""
+  },
+  {
+    "name": "School of Arts & Sciences (Dean)",
+    "title": "",
+    "department": "",
+    "room": "Stone Center",
+    "phone": "256-782-5690",
+    "email": ""
+  },
+  {
+    "name": "School of Education (Associate Dean)",
+    "title": "",
+    "department": "",
+    "room": "Ramona Wood Building",
+    "phone": "256-782-8200",
+    "email": ""
+  },
+  {
+    "name": "School of Education (Dean)",
+    "title": "",
+    "department": "",
+    "room": "Ramona Wood Hall",
+    "phone": "256-782-5589",
+    "email": ""
+  },
+  {
+    "name": "School of Health Professions & Wellness",
+    "title": "",
+    "department": "",
+    "room": "Wallace Hall",
+    "phone": "256-782-5425",
+    "email": ""
+  },
+  {
+    "name": "School of Human Services & Social Sciences",
+    "title": "",
+    "department": "",
+    "room": "Brewer Hall",
+    "phone": "256-782-5333",
+    "email": ""
+  },
+  {
+    "name": "School of Science",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5225",
+    "email": ""
+  },
+  {
+    "name": "Secondary Education",
+    "title": "",
+    "department": "",
+    "room": "205 Ramona Wood Hall",
+    "phone": "256-782-5848",
+    "email": ""
+  },
+  {
+    "name": "Senior Associate Athletic Director",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5988",
+    "email": ""
+  },
+  {
+    "name": "Senior Programs",
+    "title": "",
+    "department": "",
+    "room": "Martin Hall",
+    "phone": "256-782-5696",
+    "email": ""
+  },
+  {
+    "name": "Small Business Development",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5271",
+    "email": ""
+  },
+  {
+    "name": "Soccer",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5679",
+    "email": ""
+  },
+  {
+    "name": "Social Work",
+    "title": "",
+    "department": "",
+    "room": "306 Brewer Hall",
+    "phone": "256-782-8208",
+    "email": ""
+  },
+  {
+    "name": "Sociology",
+    "title": "",
+    "department": "",
+    "room": "306 Brewer Hall",
+    "phone": "256-782-8208",
+    "email": ""
+  },
+  {
+    "name": "Sociology & Social Work",
+    "title": "",
+    "department": "",
+    "room": "Brewer Hall",
+    "phone": "256-782-5591",
+    "email": ""
+  },
+  {
+    "name": "Sodexo Food Service",
+    "title": "",
+    "department": "",
+    "room": "Hopper Dining Hall",
+    "phone": "256-782-7242",
+    "email": ""
+  },
+  {
+    "name": "Softball",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5524",
+    "email": ""
+  },
+  {
+    "name": "Sparkman Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-6113",
+    "email": ""
+  },
+  {
+    "name": "Sports Information",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5915",
+    "email": ""
+  },
+  {
+    "name": "Statistics",
+    "title": "",
+    "department": "",
+    "room": "SBI Complex",
+    "phone": "256-782-5776",
+    "email": ""
+  },
+  {
+    "name": "Stephenson Hall",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5075",
+    "email": ""
+  },
+  {
+    "name": "Strength & Conditioning",
+    "title": "",
+    "department": "",
+    "room": "Kennamer Hall",
+    "phone": "256-782-5067",
+    "email": ""
+  },
+  {
+    "name": "Student Affairs",
+    "title": "",
+    "department": "",
+    "room": "102 Angle Hall",
+    "phone": "256-782-5020",
+    "email": ""
+  },
+  {
+    "name": "Student Athletic Academic Support",
+    "title": "",
+    "department": "",
+    "room": "308 Montgomery Building",
+    "phone": "256-782-8306",
+    "email": ""
+  },
+  {
+    "name": "Student Financial Services",
+    "title": "",
+    "department": "",
+    "room": "107 Angle Hall",
+    "phone": "256-782-5006",
+    "email": ""
+  },
+  {
+    "name": "Student Government",
+    "title": "",
+    "department": "",
+    "room": "402 Montgomery Building",
+    "phone": "256-782-5491",
+    "email": ""
+  },
+  {
+    "name": "Student Health Center",
+    "title": "Williams Infirmary",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5310",
+    "email": ""
+  },
+  {
+    "name": "Student Life",
+    "title": "",
+    "department": "",
+    "room": "402 Montgomery Building",
+    "phone": "256-782-5491",
+    "email": ""
+  },
+  {
+    "name": "Student Success Center",
+    "title": "2nd Houston Cole Library",
+    "department": "www.jsu.edu/student success",
+    "room": "",
+    "phone": "256-782-5020",
+    "email": ""
+  },
+  {
+    "name": "Swimming Pool",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5077",
+    "email": ""
+  },
+  {
+    "name": "Switchboard Attendant",
+    "title": "",
+    "department": "",
+    "room": "Daugette Hall",
+    "phone": "256-782-5781",
+    "email": ""
+  },
+  {
+    "name": "Systems and Security",
+    "title": "",
+    "department": "",
+    "room": "239 Self Hall",
+    "phone": "256-782-5381",
+    "email": ""
+  },
+  {
+    "name": "Teacher Service Center",
+    "title": "",
+    "department": "",
+    "room": "207 Ramona Wood Hall",
+    "phone": "256-782-5574",
+    "email": ""
+  },
+  {
+    "name": "Teaching/Learning Center",
+    "title": "",
+    "department": "",
+    "room": "105 Ramona Wood Hall",
+    "phone": "256-782-5617",
+    "email": ""
+  },
+  {
+    "name": "Technology and Engineering",
+    "title": "",
+    "department": "",
+    "room": "153 Ayers Hall Building",
+    "phone": "256-782-5294",
+    "email": ""
+  },
+  {
+    "name": "Television Services",
+    "title": "",
+    "department": "",
+    "room": "116 Self Hall",
+    "phone": "256-782-5023",
+    "email": ""
+  },
+  {
+    "name": "Testing, ACT, MAT, CLEP, CBase",
+    "title": "",
+    "department": "",
+    "room": "B 22 Student Success Center, HCL",
+    "phone": "256-782-8378",
+    "email": ""
+  },
+  {
+    "name": "Title IX Office",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5769",
+    "email": ""
+  },
+  {
+    "name": "Tutoring - K-12",
+    "title": "",
+    "department": "",
+    "room": "Ramona Wood Hall",
+    "phone": "256-782-5617",
+    "email": ""
+  },
+  {
+    "name": "Tutoring Services",
+    "title": "",
+    "department": "",
+    "room": "304 Montgomery Building",
+    "phone": "256-782-8223",
+    "email": ""
+  },
+  {
+    "name": "University Council",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5104",
+    "email": ""
+  },
+  {
+    "name": "Vice President for Administrative & Business Affairs",
+    "title": "",
+    "department": "",
+    "room": "226 Angle Hall",
+    "phone": "256-782-5820",
+    "email": ""
+  },
+  {
+    "name": "Vice President for University Advancement",
+    "title": "",
+    "department": "",
+    "room": "231 Angle Hall",
+    "phone": "256-782-5003",
+    "email": ""
+  },
+  {
+    "name": "Visitor Center (Campus Tours)",
+    "title": "",
+    "department": "",
+    "room": "Angle Hall",
+    "phone": "256-782-5260",
+    "email": ""
+  },
+  {
+    "name": "Volleyball",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5521",
+    "email": ""
+  },
+  {
+    "name": "Warehouse",
+    "title": "Duncan Maintenance Shop",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5448",
+    "email": ""
+  },
+  {
+    "name": "Wellness Testing Center",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5114",
+    "email": ""
+  },
+  {
+    "name": "Wesley Foundation",
+    "title": "",
+    "department": "",
+    "room": "",
+    "phone": "256-435-2208",
+    "email": ""
+  },
+  {
+    "name": "WLJS-FM Radio Station",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5572",
+    "email": ""
+  },
+  {
+    "name": "WLJS-FM Radio Station Studio",
+    "title": "",
+    "department": "",
+    "room": "Self Hall",
+    "phone": "256-782-5592",
+    "email": ""
+  },
+  {
+    "name": "Women's Basketball",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5417",
+    "email": ""
+  },
+  {
+    "name": "Women's Cross-Country",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-8068",
+    "email": ""
+  },
+  {
+    "name": "Women's Golf",
+    "title": "Mathews Coliseum",
+    "department": "",
+    "room": "",
+    "phone": "256-782-5834",
+    "email": ""
+  },
+  {
+    "name": "Women's Tennis",
+    "title": "",
+    "department": "",
+    "room": "Meehan Hall",
+    "phone": "256-782-5887",
+    "email": ""
+  }
+]
