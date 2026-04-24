@@ -310,6 +310,37 @@ function isStu(email) {
   return email.toLowerCase().indexOf('.stu@') !== -1;
 }
 
+// ===== THEMES & SETTINGS =====
+var THEMES=[
+  {id:'cocky',name:'Stay Cocky',bg:'#100000',fg:'#f0f0f0',bdr:'#8b0000',dot:'linear-gradient(135deg,#cc0000,#3d0000)'},
+  {id:'jobs',name:'Jobs',bg:'#fff',fg:'#1c1c1e',bdr:'#d1d1d6',dot:'linear-gradient(135deg,#007aff,#34c759)'},
+  {id:'woz',name:'Woz',bg:'#e8e8e8',fg:'#1a1a1a',bdr:'#888',dot:'linear-gradient(135deg,#e8e8e8,#888)'},
+  {id:'terminal',name:'Terminal',bg:'#000',fg:'#00ee00',bdr:'#00bb00',dot:'radial-gradient(#00ff00,#004400)'},
+  {id:'oled',name:'OLED',bg:'#000',fg:'#fff',bdr:'#333',dot:'linear-gradient(135deg,#fff,#333)'},
+  {id:'tesla',name:'Tesla',bg:'#080520',fg:'#e8e0ff',bdr:'#6644dd',dot:'radial-gradient(circle at 35% 35%,#fff 0%,#a87fff 40%,#1a0f4a 100%)'},
+  {id:'gotham',name:'Gotham',bg:'#0e1e2e',fg:'#cddcee',bdr:'#2a4a6a',dot:'linear-gradient(135deg,#7ab3e0,#1a3550)'},
+  {id:'obsidian',name:'Obsidian',bg:'#111',fg:'#f0ebe4',bdr:'#cc4400',dot:'linear-gradient(135deg,#ff6622,#441100)'},
+  {id:'gameboy',name:'Game Boy',bg:'#0f380f',fg:'#9bbc0f',bdr:'#306230',dot:'linear-gradient(135deg,#9bbc0f,#306230)'},
+  {id:'synthwave',name:'Synthwave',bg:'#160025',fg:'#ffe8ff',bdr:'#cc00cc',dot:'linear-gradient(135deg,#ff00ff,#440066)'},
+  {id:'phosphor',name:'Phosphor',bg:'#0a0500',fg:'#ffcc44',bdr:'#cc7700',dot:'radial-gradient(#ffaa00,#3a2200)'},
+  {id:'nightgame',name:'Night Game',bg:'#0a0a0a',fg:'#fff',bdr:'#ddaa00',dot:'linear-gradient(135deg,#ffcc00,#665500)'}
+];
+function setTheme(t, silent) {
+  document.body.setAttribute('data-theme', t);
+  localStorage.setItem('jf_t', t);
+  renderThemeGrid();
+  if (!silent) closeSet();
+}
+function renderThemeGrid() {
+  var cur = document.body.getAttribute('data-theme') || 'cocky';
+  var g = document.getElementById('themeGrid');
+  if (!g) return;
+  g.innerHTML = THEMES.map(function(t) {
+    return '<div class="tsw' + (t.id === cur ? ' on' : '') + '" style="background:' + t.bg + ';color:' + t.fg + ';border-color:' + (t.id === cur ? t.bdr : 'transparent') + '" onclick="setTheme(\'' + t.id + '\')">' +
+      '<div class="tsw-d" style="background:' + t.dot + '"></div>' + t.name + '</div>';
+  }).join('');
+}
+
 // ===== INIT =====
 (function() {
   document.getElementById('heroN').textContent = DB.length.toLocaleString();
@@ -681,35 +712,6 @@ function go(t) {
 // ===== SETTINGS =====
 function openSet() { document.getElementById('shOv').classList.add('open'); document.getElementById('sheet').classList.add('open'); }
 function closeSet() { document.getElementById('shOv').classList.remove('open'); document.getElementById('sheet').classList.remove('open'); }
-var THEMES=[
-  {id:'cocky',name:'Stay Cocky',bg:'#100000',fg:'#f0f0f0',bdr:'#8b0000',dot:'linear-gradient(135deg,#cc0000,#3d0000)'},
-  {id:'jobs',name:'Jobs',bg:'#fff',fg:'#1c1c1e',bdr:'#d1d1d6',dot:'linear-gradient(135deg,#007aff,#34c759)'},
-  {id:'woz',name:'Woz',bg:'#e8e8e8',fg:'#1a1a1a',bdr:'#888',dot:'linear-gradient(135deg,#e8e8e8,#888)'},
-  {id:'terminal',name:'Terminal',bg:'#000',fg:'#00ee00',bdr:'#00bb00',dot:'radial-gradient(#00ff00,#004400)'},
-  {id:'oled',name:'OLED',bg:'#000',fg:'#fff',bdr:'#333',dot:'linear-gradient(135deg,#fff,#333)'},
-  {id:'tesla',name:'Tesla',bg:'#080520',fg:'#e8e0ff',bdr:'#6644dd',dot:'radial-gradient(circle at 35% 35%,#fff 0%,#a87fff 40%,#1a0f4a 100%)'},
-  {id:'gotham',name:'Gotham',bg:'#0e1e2e',fg:'#cddcee',bdr:'#2a4a6a',dot:'linear-gradient(135deg,#7ab3e0,#1a3550)'},
-  {id:'obsidian',name:'Obsidian',bg:'#111',fg:'#f0ebe4',bdr:'#cc4400',dot:'linear-gradient(135deg,#ff6622,#441100)'},
-  {id:'gameboy',name:'Game Boy',bg:'#0f380f',fg:'#9bbc0f',bdr:'#306230',dot:'linear-gradient(135deg,#9bbc0f,#306230)'},
-  {id:'synthwave',name:'Synthwave',bg:'#160025',fg:'#ffe8ff',bdr:'#cc00cc',dot:'linear-gradient(135deg,#ff00ff,#440066)'},
-  {id:'phosphor',name:'Phosphor',bg:'#0a0500',fg:'#ffcc44',bdr:'#cc7700',dot:'radial-gradient(#ffaa00,#3a2200)'},
-  {id:'nightgame',name:'Night Game',bg:'#0a0a0a',fg:'#fff',bdr:'#ddaa00',dot:'linear-gradient(135deg,#ffcc00,#665500)'}
-];
-function setTheme(t, silent) {
-  document.body.setAttribute('data-theme', t);
-  localStorage.setItem('jf_t', t);
-  renderThemeGrid();
-  if (!silent) closeSet();
-}
-function renderThemeGrid() {
-  var cur = document.body.getAttribute('data-theme') || 'cocky';
-  var g = document.getElementById('themeGrid');
-  if (!g) return;
-  g.innerHTML = THEMES.map(function(t) {
-    return '<div class="tsw' + (t.id === cur ? ' on' : '') + '" style="background:' + t.bg + ';color:' + t.fg + ';border-color:' + (t.id === cur ? t.bdr : 'transparent') + '" onclick="setTheme(\'' + t.id + '\')">' +
-      '<div class="tsw-d" style="background:' + t.dot + '"></div>' + t.name + '</div>';
-  }).join('');
-}
 
 // ===== UTILS =====
 function esc(s) { return s ? (s + '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;') : ''; }
