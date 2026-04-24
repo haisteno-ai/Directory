@@ -1,0 +1,42 @@
+name: Update JSU Directory
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install jsdom
+        run: npm install jsdom
+
+      - name: Run scraper
+        run: node scrape-directory.js index.html
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet index.html && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          RECORD_COUNT=$(node -e "const f=require('fs').readFileSync('directory-db.json','utf8'); console.log(JSON.parse(f).length);")
+          git config user.name "JAXFinder Bot"
+          git config user.email "actions@github.com"
+          git add index.html directory-db.json
+          git commit -m "chore: update directory DB ($RECORD_COUNT records) [skip ci]"
+          git push
