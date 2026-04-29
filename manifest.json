@@ -1,0 +1,21 @@
+{
+  "name": "JAXFinder — JSU Directory",
+  "short_name": "JAXFinder",
+  "description": "Faculty & Staff Directory for Jacksonville State University",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#b40f23",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
